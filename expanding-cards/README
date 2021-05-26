@@ -1,0 +1,10 @@
+In this project, I learn
+- How to use transition to make animation 
+- How to use flex to expand or shrink element
+
+New CSS:
+- box-sizing: border-box; -> Tells the broswer to acconut for any border and padding in the value you specified for an element's width and height
+- transition: property name | duration | easing function | delay
+    We need two class with two different value with same property to make the transition.
+    
+- background-size: cover -> Scales the image as large as possible
