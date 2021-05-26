@@ -1,0 +1,9 @@
+Add active to circle, and use the number of active to calculate the length of progress bar.
+What I learn
+- Creating variable for css file
+- use tranform: scale(0.98) to make animation for clicking button
+- We need to set the outer container to be relative, so we can set the inter content position absolute
+- justify-content: space-between: Distribute items evenly
+                                  The first item is flush with the start,
+                                  the last is flush with the end 
+- 
