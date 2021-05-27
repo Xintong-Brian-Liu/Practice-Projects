@@ -1,0 +1,10 @@
+What I learn 
+- :focus is generally triggered when the user clicks or taps on an element
+- transition happens when there is a change in the property 
+- How to show class with pre-condition:
+    /* If search has active class, input changes */
+        .search.active .input {
+        width: 200px;
+        }
+- When we need to add or remove class with click, we can use toggle
+- .focus() usually is for input(), when it is called, keyboard is focus on input. 
